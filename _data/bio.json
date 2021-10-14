@@ -2,7 +2,7 @@
   "basics": {
     "name": "Chenoa Faletoi",
     "label": "Student",
-    "picture": "https://ChenoaTalia.github.io/images/pic.jpg",
+    "picture": "https://ChenoaTalia.github.io/images/chenoa.JPG",
     "email": "chenoa.faletoi15@gmail.com",
     "phone": "",
     "website": "https://ChenoaTalia.github.io",
@@ -71,7 +71,6 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub",
         "Docker",
         "Office Suite"
       ]
